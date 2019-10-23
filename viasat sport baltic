@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Viasat Sport Baltic
-http://195.12.182.18:4022/udp/239.255.1.1:5004
+#EXTINF:0 tvg-id="TVPlaySports.lt" group-title="Channels",TVPlay Sports LT
+http://88.216.48.14:...laysp/live.m3u8
+#EXTINF:0 tvg-id="TVPlaySportsPlus.lt" group-title="Channels",TVPlay Sports + LT
+http://88.216.48.14:...pplus/live.m3u8
